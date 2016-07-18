@@ -1,0 +1,13 @@
+{
+	"role":{
+	
+		"name": "tinyworld.tinydb::cdstinyworld_dr1",
+		"object_privileges":[
+			{
+				"name": "tinyworld.tinydb::tinyf.country",
+				"type": "TABLE",
+				"privileges": [ "SELECT" ]
+			}
+		]
+	}
+}
