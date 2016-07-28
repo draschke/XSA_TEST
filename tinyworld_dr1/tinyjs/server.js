@@ -8,7 +8,7 @@ var cds = sap-cds;
 
 //test dirk again
 // test git
-//testdirk
+//testdirkfff
 
 var options = xsjs.extend({
 	// anonymous : true, // remove to authenticate calls
